@@ -5,3 +5,6 @@ Git: stage your changes : git add --all
      git push
 [nodemon] : would just watch our Javascript file and if we save a Change in any
 of these files, it will restart the server
+
+Client = Frontend
+Server = Backend
