@@ -1,0 +1,1 @@
+launch Application: npm run dev
